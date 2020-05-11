@@ -1,0 +1,62 @@
+/*整个home页面由一个大的el-container包含三个el-main组成*/
+.el-container{
+  height: 100%;
+  /*width: 100%;*/
+  /*box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);*/
+}
+
+.el-main{
+  margin-bottom: 20px;
+}
+
+.Modular{
+  margin-bottom: 20px;
+  /*border: 1px solid red;*/
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+}
+/*三个el-main的命名 leaf、container、right*/
+.left{
+  width: 200px;
+  padding-left: 200px;
+}
+.container{
+  width: 30%;
+}
+.right{
+  width: 20%;
+}
+
+
+img{
+  height: 100px;
+  width: 100px;
+  margin-bottom: 10px;
+
+}
+.album{
+
+  float: left;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+.friendHref{
+    clear:both;
+}
+
+.myphoto{
+  text-align:center;
+}
+
+.classify{
+  margin-bottom: 5px;
+}
+
+
+.articleTitle{
+  /*width: 100px;*/
+  height: 100px;
+  overflow:scroll;
+}
+.articleTitle::-webkit-scrollbar {
+  width: 0 !important
+}

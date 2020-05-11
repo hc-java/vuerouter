@@ -1,19 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b52193be-9a85-42ce-9713-ec08a320b3c7" name="Default Changelist" comment="" />
+    <list default="true" id="b52193be-9a85-42ce-9713-ec08a320b3c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/images/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/images/vegetable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/images/vegetable1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/addArticle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryArticle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryComment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryReply.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryabout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/about.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/album.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/blogconent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/classify.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/queryTitle.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/PageOne.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/components/left.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/PageTwo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/components/test.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/Routertest.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/view/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前后端分离.md" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="ColdFusion File" />
+        <option value="HTML File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -22,11 +73,27 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1ZsuLcCkH0Gzgx2REaTpOouRKI9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultCfmlFileTemplate" value="ColdFusion File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myblog-web\myblog-web\src\assets\images" />
+      <recent name="E:\myblog-web\myblog-web\src\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myblog-web\myblog-web\src\assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,10 +122,55 @@
       <workItem from="1585644084970" duration="397000" />
       <workItem from="1585645122556" duration="14000" />
       <workItem from="1585645763378" duration="10867000" />
+      <workItem from="1585663726378" duration="1278000" />
+      <workItem from="1585700016291" duration="3976000" />
+      <workItem from="1585706349087" duration="6745000" />
+      <workItem from="1585720918958" duration="17068000" />
+      <workItem from="1585787002711" duration="2444000" />
+      <workItem from="1585790611875" duration="29006000" />
+      <workItem from="1585911841381" duration="13748000" />
+      <workItem from="1586074001001" duration="5741000" />
+      <workItem from="1586090837036" duration="9441000" />
+      <workItem from="1586153220202" duration="1181000" />
+      <workItem from="1586155833864" duration="15918000" />
+      <workItem from="1586219540377" duration="35857000" />
+      <workItem from="1586306146114" duration="32556000" />
+      <workItem from="1586354311652" duration="2020000" />
+      <workItem from="1586431800658" duration="738000" />
+      <workItem from="1586433166252" duration="10509000" />
+      <workItem from="1586479416234" duration="21710000" />
+      <workItem from="1586521590255" duration="4644000" />
+      <workItem from="1586569862361" duration="14467000" />
+      <workItem from="1586670148358" duration="1903000" />
+      <workItem from="1586675078961" duration="1785000" />
+      <workItem from="1586739942270" duration="7297000" />
+      <workItem from="1586829071225" duration="1793000" />
+      <workItem from="1587008547958" duration="2734000" />
+      <workItem from="1587023505308" duration="2166000" />
+      <workItem from="1587092988855" duration="3355000" />
+      <workItem from="1587345336027" duration="8899000" />
+      <workItem from="1587431661122" duration="3280000" />
+      <workItem from="1587518168634" duration="666000" />
+      <workItem from="1587604790694" duration="1213000" />
+      <workItem from="1588775469694" duration="1739000" />
+      <workItem from="1588780251235" duration="588000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
