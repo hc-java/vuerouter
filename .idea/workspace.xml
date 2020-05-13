@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52193be-9a85-42ce-9713-ec08a320b3c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/images/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/images/vegetable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/assets/images/vegetable1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/addArticle.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryArticle.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryComment.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryReply.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/admin/queryabout.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/about.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/album.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/blogconent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/classify.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog-web/src/view/web/queryTitle.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/build/utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myblog-web/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/Login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/PageOne.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/components/left.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/PageTwo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/components/test.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/Routertest.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/view/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myblog-web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-web/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前后端分离.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
@@ -154,6 +127,7 @@
       <workItem from="1587604790694" duration="1213000" />
       <workItem from="1588775469694" duration="1739000" />
       <workItem from="1588780251235" duration="588000" />
+      <workItem from="1589295034509" duration="1455000" />
     </task>
     <servers />
   </component>

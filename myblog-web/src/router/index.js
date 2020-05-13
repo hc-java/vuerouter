@@ -24,6 +24,7 @@ import Left from '@/components/left';
 Vue.use(Router)
 
 export default new Router({
+  base:'/myblog/',
   mode: 'history',
   routes: [
     {
